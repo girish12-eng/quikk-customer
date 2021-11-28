@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807078039001",
+    "project_id": "quikk-7c27c",
+    "storage_bucket": "quikk-7c27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807078039001:android:b7ea50b1c6f9a745d9ddc8",
+        "android_client_info": {
+          "package_name": "com.graphhene.quikk.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807078039001-pq7hovm80dpjapr7kseofq9bt8igrtk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsO1CAW4yBbbX99kdisW1C9IT_5_ugARI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807078039001-pq7hovm80dpjapr7kseofq9bt8igrtk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
